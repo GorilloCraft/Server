@@ -1,4 +1,7 @@
-# Server
-Reporting for all server related issues. 
+# GorilloCraft Server Issues and Reporting!
 
-###To create a new issue please go here [Server Issues](https://github.com/GorilloCraft/Server/issues).
+## Server Issues
+To create a new issue please go here [Server Issues](https://github.com/GorilloCraft/Server/issues).
+
+## Server Commands
+Coming soonTM
